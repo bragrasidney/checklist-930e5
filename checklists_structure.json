@@ -1,0 +1,436 @@
+{
+    "Mecânica": {
+        "Cada 250H": [
+            {
+                "code": "A.01",
+                "periodicity": "250H",
+                "description": "LIMPAR FILTRO DE AR EXTERNO DA CABINE (MÁXIMO DE PRESSÃO DE AR 40 psi)",
+                "observation": "Em condições e ou ambientes extremos, o filtro externo da cabine poderá intensificar inspeção e limpeza\nFILTRO DE RECIRCULAÇÃO DO AR DA CABINE"
+            },
+            {
+                "code": "A.02",
+                "periodicity": "250H",
+                "description": "APLICAR GRAXA NLGI Nº02 NO EIXO CARDAN",
+                "observation": "ADICIONAR DUAS APLICAÇÕES DE GRAXA EM CADA PONTO DE GRAXA NO EIXO CARDAN."
+            },
+            {
+                "code": "B.01",
+                "periodicity": "250H",
+                "description": "VERIFICAR O ALINHAMENTO E VIBRAÇÕES DO CARDAN",
+                "observation": NaN
+            },
+            {
+                "code": "B.02",
+                "periodicity": "250H",
+                "description": "VERIFICAR O FUNCIONAMENTO DA VÁLVULA DE PILOTAGEM (4 POSIÇÕES) _ ELEVAÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.03",
+                "periodicity": "250H",
+                "description": "VERIFICAR A OPERAÇÃO DA SANGRIA DOS ACUMULADORES DE DIREÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.04",
+                "periodicity": "250H",
+                "description": "VERIFICAR O CORTE DO INTERRUPTOR DA BÁSCULA",
+                "observation": NaN
+            },
+            {
+                "code": "B.05",
+                "periodicity": "250H",
+                "description": "VERIFICAR O NÍVEL DO ÓLEO HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.06",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NO TANQUE HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.07",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NAS MANGUEIRAS E SEUS ACOPLAMENTOS",
+                "observation": NaN
+            },
+            {
+                "code": "B.08",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NO CONJUNTO DAS BOMBAS HIDRÁULICAS",
+                "observation": NaN
+            },
+            {
+                "code": "B.09",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NOS FREIOS DE SERVIÇO E ESTACIONAMENTO",
+                "observation": NaN
+            },
+            {
+                "code": "B.10",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NOS CILINDROS DE ELEVAÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.11",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NOS CILINDROS DE DIREÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.12",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NO AMPLIFICADOR DE FLUXO",
+                "observation": NaN
+            },
+            {
+                "code": "B.13",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NA VÁLVULA DE ELEVAÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.14",
+                "periodicity": "250H",
+                "description": "VERIFICAR MANGUEIRAS DANIFICADAS, COM INTERFERÊNCIAS OU SOLTAS",
+                "observation": NaN
+            },
+            {
+                "code": "B.15",
+                "periodicity": "250H",
+                "description": "VERIFICAR PARAFUSOS DE ENCAIXE DO TANQUE HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.16",
+                "periodicity": "250H",
+                "description": "VERIFICAR PARAFUSOS DE FIXAÇÃO DO CONJUNTO BOMBAS HIDRÁULICAS",
+                "observation": NaN
+            },
+            {
+                "code": "B.17",
+                "periodicity": "250H",
+                "description": "VERIFICAR FISSURAS DO TANQUE HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.18",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTADO DA ESCADA DE ACESSO AO TANQUE HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.19",
+                "periodicity": "250H",
+                "description": "VERIFICAR FIXAÇÃO DOS ACUMULADORES DE DIREÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.20",
+                "periodicity": "250H",
+                "description": "VERIFICAR A PRESSÃO DO ACUMULADORES DE DIREÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.21",
+                "periodicity": "250H",
+                "description": "COLETAR AMOSTRA DE ÓLEO HIDRÁULICO",
+                "observation": "KIT DE COLETA DE ÓLEO"
+            },
+            {
+                "code": "B.22",
+                "periodicity": "250H",
+                "description": "VERIFICAR PRESSÃO DO ACUMULADORES DE FREIO",
+                "observation": NaN
+            },
+            {
+                "code": "C.01",
+                "periodicity": "250H",
+                "description": "VERIFICAR SE HÁ VAZAMENTOS DE LÍQUIDO REFRIGERANTE",
+                "observation": NaN
+            },
+            {
+                "code": "C.02",
+                "periodicity": "250H",
+                "description": "VERIFICAR O ESTADO E HERMETICIDADE DOS DUTOS DE ADMISSÃO",
+                "observation": NaN
+            },
+            {
+                "code": "C.03",
+                "periodicity": "250H",
+                "description": "VERIFICAR TORQUE DOS PARAFUSOS DE MONTAGEM DO CUBO",
+                "observation": NaN
+            },
+            {
+                "code": "C.04",
+                "periodicity": "250H",
+                "description": "VERIFICAR TORQUE DOS PARAFUSOS DE MONTAGEM DO VENTILADOR",
+                "observation": NaN
+            },
+            {
+                "code": "C.05",
+                "periodicity": "250H",
+                "description": "ENCAIXE DOS DUTOS DE ADMISSÃO E ESCAPE",
+                "observation": NaN
+            },
+            {
+                "code": "C.06",
+                "periodicity": "250H",
+                "description": "CONFERIR ESTADO DA EMGREAGEM DO VENTILADOR (POSSÍVEIS VAZAMENTOS)",
+                "observation": NaN
+            },
+            {
+                "code": "C.07",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTADO DA VEDAÇÃO DA TAMPA DE ENCHIMENTO DO RESERVATÓRIO",
+                "observation": NaN
+            },
+            {
+                "code": "C.08",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTADO DO VISOR DE NÍVEL",
+                "observation": NaN
+            },
+            {
+                "code": "C.09",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTADO DE MANGUEIRAS, CONEXÕES E ABRAÇADEIRAS",
+                "observation": NaN
+            },
+            {
+                "code": "C.10",
+                "periodicity": "250H",
+                "description": "VERIFICAR ATRITO DA TELA DO VENTILADOR COM O TUBO DO RADIADOR",
+                "observation": NaN
+            },
+            {
+                "code": "C.11",
+                "periodicity": "250H",
+                "description": "VERIFICAR ATRITO DAS TUBULAÇÕES EM GERAL",
+                "observation": NaN
+            },
+            {
+                "code": "C.12",
+                "periodicity": "250H",
+                "description": "VERIFICAR BATENTES LATERAIS DO RADIADOR",
+                "observation": NaN
+            },
+            {
+                "code": "C.13",
+                "periodicity": "250H",
+                "description": "DRENAR ÁGUA DO TANQUE DIESEL ATRAVÉS DO BUJÃO DE DRENO",
+                "observation": NaN
+            },
+            {
+                "code": "C.14",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NO ENGATE RÁPIDO",
+                "observation": NaN
+            },
+            {
+                "code": "C.15",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS DAS MANGUEIRAS DE COMBUSTÍVEL",
+                "observation": NaN
+            },
+            {
+                "code": "C.16",
+                "periodicity": "250H",
+                "description": "DRENAR ÁGUA DOS FILTROS DE COMBUSTÍVEL SEPARADOR DE ÁGUA",
+                "observation": NaN
+            },
+            {
+                "code": "C.17",
+                "periodicity": "250H",
+                "description": "VERIFICAR FIXAÇÃO DOS TUBOS DO SISTEMA DE ADMISSÃO DE AR",
+                "observation": NaN
+            },
+            {
+                "code": "C.18",
+                "periodicity": "250H",
+                "description": "VERIFICAR FIXAÇÃO DOS TUBOS DO SISTEMA DE ESCAPE",
+                "observation": NaN
+            },
+            {
+                "code": "C.19",
+                "periodicity": "250H",
+                "description": "SUBSTITUIR ÓLEO DO MOTOR DIESEL",
+                "observation": NaN
+            },
+            {
+                "code": "C.20",
+                "periodicity": "250H",
+                "description": "SUBSTITUIR FILTRO DE ÓLEO DO MOTOR DIESEL",
+                "observation": "250HS + TROCA DO ÓLEO"
+            },
+            {
+                "code": "C.21",
+                "periodicity": "250H",
+                "description": "SUBSTITUIR FILTRO DE ÓLEO DO MOTOR DIESEL",
+                "observation": "PEÇA DCML - 250HS + TROCA DO ÓLEO"
+            },
+            {
+                "code": "C.22",
+                "periodicity": "250H",
+                "description": "VERIFICAR FOLGA DAS CRUZETAS DO CARDAN",
+                "observation": NaN
+            },
+            {
+                "code": "C.23",
+                "periodicity": "250H",
+                "description": "VERIFICAR FUNCIONAMENTO DO INDICADOR DE RESTRIÇÃO DE FILTRO DE AR",
+                "observation": NaN
+            },
+            {
+                "code": "D.01",
+                "periodicity": "250H",
+                "description": "VERIFICAR ACUMULO DE SUJEIRAS E LAMAS PRÓXIMO AIS ANÉIS COLETORES",
+                "observation": NaN
+            },
+            {
+                "code": "D.02",
+                "periodicity": "250H",
+                "description": "INSPECIONAR VEDAÇÕES DAS TAMPAS DE ACESSO AS ESCOVAS",
+                "observation": NaN
+            },
+            {
+                "code": "D.03",
+                "periodicity": "250H",
+                "description": "VERIFICAR PARAFUSOS EXTERNOS COM FOLGA E OU QUEBRADOS NA CARCAÇA DE FIBRA DE VIDRO",
+                "observation": NaN
+            },
+            {
+                "code": "D.04",
+                "periodicity": "250H",
+                "description": "VERIFICAR RESTRIÇÕES NA ADMISSÃO E EXAUSTÃO DE AR DO ALTERNADOR",
+                "observation": NaN
+            },
+            {
+                "code": "D.05",
+                "periodicity": "250H",
+                "description": "MEDIR E REGISTRARA ALTURA DAS ESCOVAS NAS TRÊS POSIÇÕES DO LE E NAS TRÊS LD",
+                "observation": NaN
+            },
+            {
+                "code": "F.01",
+                "periodicity": "250H",
+                "description": "COLETAR AMOSTRA DE ÓLEO LUBRIFICANTE DAS RODAS MOTORIZADAS",
+                "observation": "KIT DE COLETA DE ÓLEO"
+            },
+            {
+                "code": "G.01",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTRUTURAS SOLTAS E OU FALTANTES",
+                "observation": NaN
+            },
+            {
+                "code": "G.02",
+                "periodicity": "250H",
+                "description": "VERIFICAR ESTRUTURAS FOLGADS E DESALINHADAS",
+                "observation": NaN
+            },
+            {
+                "code": "G.03",
+                "periodicity": "250H",
+                "description": "VERIFICAR ACÚMULOS DE MATERIAIS ESTRANHOS QUE POSSA AFETAR A OPERAÇÃO DA ESCADA",
+                "observation": NaN
+            },
+            {
+                "code": "G.04",
+                "periodicity": "250H",
+                "description": "VERIFICAR DANOS NOS CHICOTES E CABOS",
+                "observation": NaN
+            },
+            {
+                "code": "G.05",
+                "periodicity": "250H",
+                "description": "VERIFICAR FUNCIONAMENTO ADEQUADO DE TODOS OS INTERRUPTORES E CONTROLES DA ESCADA",
+                "observation": NaN
+            },
+            {
+                "code": "G.06",
+                "periodicity": "250H",
+                "description": "VERIFICAR RUÍDOS ANORMAIS DURANTE OPERAÇÃO DA ESCADA",
+                "observation": NaN
+            },
+            {
+                "code": "G.07",
+                "periodicity": "250H",
+                "description": "VERIFICAR MOVIMENTO ADEQUADO DE DESCER E BAIXAR ESCADA",
+                "observation": NaN
+            }
+        ],
+        "Cada 500H": [
+            {
+                "code": "A.01",
+                "periodicity": "250H",
+                "description": "LIMPAR FILTRO DE AR EXTERNO DA CABINE (MÁXIMO DE PRESSÃO DE AR 40 psi)",
+                "observation": "Em condições e ou ambientes extremos, o filtro externo da cabine poderá intensificar inspeção e limpeza\nFILTRO DE RECIRCULAÇÃO DO AR DA CABINE"
+            },
+            {
+                "code": "A.02",
+                "periodicity": "250H",
+                "description": "APLICAR GRAXA NLGI Nº02 NO EIXO CARDAN",
+                "observation": "ADICIONAR DUAS APLICAÇÕES DE GRAXA EM CADA PONTO DE GRAXA NO EIXO CARDAN."
+            },
+            {
+                "code": "A.03",
+                "periodicity": "500H",
+                "description": "LAVAR CAMINHÃO",
+                "observation": NaN
+            },
+            {
+                "code": "A.04",
+                "periodicity": "500H",
+                "description": "SOPRAR O ALTERNADOR PRINCIPAL COM AR SECO",
+                "observation": NaN
+            },
+            {
+                "code": "A.05",
+                "periodicity": "500H",
+                "description": "SOPRAR O BLOWER",
+                "observation": NaN
+            },
+            {
+                "code": "A.06",
+                "periodicity": "500H",
+                "description": "SOPRAR ALTERNADOR DE 24 VOLTS (MÁX. 70 psi)",
+                "observation": NaN
+            },
+            {
+                "code": "B.01",
+                "periodicity": "250H",
+                "description": "VERIFICAR O ALINHAMENTO E VIBRAÇÕES DO CARDAN",
+                "observation": NaN
+            },
+            {
+                "code": "B.02",
+                "periodicity": "250H",
+                "description": "VERIFICAR O FUNCIONAMENTO DA VÁLVULA DE PILOTAGEM (4 POSIÇÕES) _ ELEVAÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.03",
+                "periodicity": "250H",
+                "description": "VERIFICAR A OPERAÇÃO DA SANGRIA DOS ACUMULADORES DE DIREÇÃO",
+                "observation": NaN
+            },
+            {
+                "code": "B.04",
+                "periodicity": "250H",
+                "description": "VERIFICAR O CORTE DO INTERRUPTOR DA BÁSCULA",
+                "observation": NaN
+            },
+            {
+                "code": "B.05",
+                "periodicity": "250H",
+                "description": "VERIFICAR O NÍVEL DO ÓLEO HIDRÁULICO",
+                "observation": NaN
+            },
+            {
+                "code": "B.06",
+                "periodicity": "250H",
+                "description": "VERIFICAR VAZAMENTOS NO TA
+(Content truncated due to size limit. Use line ranges to read in chunks)
